@@ -1,0 +1,18 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de dados (IMPORTANTE!)
+# Descomente a linha abaixo se seu .csv for muito grande (acima de 25MB)
+# *.csv
+
+# Arquivos de sistema
+.DS_Store
